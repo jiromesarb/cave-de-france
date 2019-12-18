@@ -1,0 +1,4 @@
+2019-12-05T01:20:22+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\elementor\core\settings\general\manager.php on line 10
+
+2019-12-05T14:12:52+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\elementor\core\common\modules\finder\base-category.php on line 7
+

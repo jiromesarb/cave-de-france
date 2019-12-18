@@ -1,0 +1,8 @@
+2019-12-16T00:49:35+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\elementor\includes\widgets\social-icons.php on line 4
+
+2019-12-16T12:39:01+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-includes\wp-db.php on line 2030
+
+2019-12-16T12:39:01+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-includes\wp-db.php on line 2030
+
+2019-12-16T12:39:03+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-includes\wp-db.php on line 2030
+

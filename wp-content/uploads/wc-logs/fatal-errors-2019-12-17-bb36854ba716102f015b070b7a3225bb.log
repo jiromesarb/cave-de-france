@@ -1,0 +1,4 @@
+2019-12-17T01:27:05+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\themes\astra\inc\core\deprecated\deprecated-hooks.php on line 12
+
+2019-12-17T10:18:30+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\elementor\core\responsive\responsive.php on line 6
+
